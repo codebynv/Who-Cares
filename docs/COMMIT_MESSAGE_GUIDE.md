@@ -1,6 +1,6 @@
 # Commit Message Guide
 
-Write commit messages that describe the change clearly.
+Write commit messages that describe the actual change.
 
 Examples:
 
@@ -9,4 +9,4 @@ Examples:
 - test: cover invalid file paths
 - chore: ignore generated cache
 
-Keep each commit focused. Avoid messages that claim work was completed when it was not.
+Keep commits focused and avoid messages that claim work was completed when it was not.
